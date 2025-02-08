@@ -1,6 +1,6 @@
 substitutions:
-  left_bed_sensor_gpio: 20
-  right_bed_sensor_gpio: 10
+  left_bed_sensor_gpio: "20"
+  right_bed_sensor_gpio: "10"
 
 packages:
   left_bed_sensor: !include
